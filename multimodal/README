@@ -1,0 +1,39 @@
+1112:Stonybrook: Im2Text: Describing Images Using 1 Million Captioned Photographs.pdf	SBU Captioned Photo Dataset, 1M Flickr images. System matches query image to dataset images and extracts (copies) the best captions. Pre-deep-learning, image representation based on manual global features (gist & thumbnail match), and noisy object recognition (only 89 categories, HoG visual words, 21 attribute, color surface etc, classifiers that use SVMs), text extracted using tf-idf etc. tf-idf also used on image detections. BLEU for eval. Human eval uses one caption (gold or generated) and two images (one random). For gold caption human picks correct image .96, fot generated .67! Nice early work but no useful info on text image representation fusion.
+1404:Stanford: Grounded Compositional Semantics for Finding and Describing Images with Sentences.pdf
+1406:Toronto: Multimodal Neural Language Models.pdf
+1411:Google: Show and Tell: A Neural Image Caption Generator.pdf
+1411:Toronto: Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models.pdf
+1502:Toronto: Show, Attend and Tell: Neural Image Caption Generation with Visual Attention.pdf
+1505:Microsoft: Exploring Nearest Neighbor Approaches for Image Captioning.pdf
+1606:Berkeley: Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding.pdf
+1703:Cornell: Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization.pdf
+1705:CMU: Multimodal Machine Learning: A Survey and Taxonomy.pdf
+1709:Montreal: FiLM: Visual Reasoning with a General Conditioning Layer.pdf
+1804:Microsoft: Generating Diverse and Accurate Visual Captions by Comparative Adversarial Learning.pdf
+1905:Fuzhou: Deep Multimodal Representation Learning: A Survey.pdf
+1908:Microsoft: VL-BERT: Pre-training of Generic Visual-Linguistic Representations.pdf
+1908:UCLA: VisualBERT: A Simple and Performant Baseline for Vision and Language.pdf
+1908:UNC: LXMERT: Learning Cross-Modality Encoder Representations from Transformers.pdf
+1909:Microsoft: UNITER: UNiversal Image-TExt Representation Learning.pdf
+1910:Microsoft: Entangled Transformer for Image Captioning.pdf
+1911:JDAI: Multimodal Intelligence: Representation Learning, Information Fusion, and Applications.pdf
+1912:Facebook: ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks.pdf
+2010:Singapore: Multimodal Research in Vision and Language: A Review of Current and Emerging Trends.pdf
+2101:Microsoft: VinVL: Revisiting Visual Representations in Vision-Language Models.pdf
+2102:Google: Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision.pdf
+2102:OpenAI:DALL-E Zero-Shot Text-to-Image Generation.pdf
+2103:OpenAI: Learning Transferable Visual Models From Natural Language Supervision.pdf
+2108:Google: SimVLM: Simple Visual Language Model Pretraining with Weak Supervision.pdf
+2108:Saarland: Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods.pdf
+2111:Microsoft: Florence: A New Foundation Model for Computer Vision.pdf
+2111:TelAviv: ZeroCap: Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic.pdf
+2112:OpenAI: GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models.pdf
+2112:Singapore: Multimodal Image Synthesis and Editing: A Survey.pdf
+2201:Salesforce: BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation.pdf
+2203:AISummer: Vision Language models: towards multi-modal deep learning - blogpost.pdf
+2203:UCAS: End-to-End Transformer Based Model for Image Captioning.pdf
+2206:NVIDIA: Denoising Diffusion-based Generative Modeling: Foundations and Applications: CVPR 2022 Tutorial.pdf
+2206:Oxford: Multimodal Learning with Transformers: A Survey.pdf
+2207:Tohoku: GRIT: Faster and Better Image captioning Transformer Using Dual Visual Features.pdf
+2210:Google: Imagic: Text-Based Real Image Editing with Diffusion Models.pdf
+2210:UCSB: Visualize Before You Write: Imagination-Guided Open-Ended Text Generation.pdf	Similar to the CLIP_CAP? paper says Ilker.
