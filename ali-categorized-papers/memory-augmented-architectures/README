@@ -1,0 +1,31 @@
+1410:FAIR: Memory Networks.pdf
+1410:Google: Neural Turing Machines.pdf
+1506:MetaMind: Ask Me Anything: Dynamic Memory Networks for Natural Language Processing.pdf
+1507:IDSIA: Training Very Deep Networks.pdf
+1609:Google: Attention and Augmented Recurrent Neural Networks.pdf
+1709:ASAPP: Simple Recurrent Units for Highly Parallelizable Recurrence.pdf
+1804:Google: The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation.pdf
+1806:DeepMind: Relational recurrent neural networks.pdf
+1901:CMU: Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context.pdf
+1907:MSU: R-Transformer: Recurrent Neural Network Enhanced Transformer.pdf
+1910:Google: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer.pdf
+2002:FAIR: Addressing Some Limitations of Transformers with Feedback Memory.pdf
+2004:AllenAI: Longformer: The Long-Document Transformer.pdf
+2004:Google: ETC: Encoding Long and Structured Inputs in Transformers.pdf
+2004:Google: Global Relational Models of Source Code.pdf
+2009:Google: Efficient Transformers: A Survey.pdf
+2010:UCDavis: Memformer: A Memory-Augmented Transformer for Sequence Modeling.pdf
+2011:Google: Long Range Arena: A Benchmark for Efficient Transformers.pdf
+2102:ASAPP: When Attention Meets Fast Recurrence: Training Language Models with Reduced Compute.pdf
+2103:DeepMind: Perceiver: General Perception with Iterative Attention.pdf
+2105:FAIR: Not All Memories are Created Equal: Learning to Forget by Expiring.pdf
+2105:Google: ReadTwice: Reading Very Large Documents with Memories.pdf
+2106:FAIR: Staircase Attention for Recurrent Processing of Sequences.pdf
+2109:UMass: Do Long-Range Language Models Actually Use Long-Range Context.pdf
+2111:Moscow: Memory transformer with hierarchical attention for long document processing.pdf
+2201:TelAviv: SCROLLS: Standardized CompaRison Over Long Language Sequences.pdf
+2203:Google: Block-Recurrent Transformers.pdf	Transformer-XL based model, computes attention in 512 window size blocks within a 4096 long segment each training step. For memory it uses a number of (default 512) state vectors in addition to input vectors (embeddings). The two types of vectors use cross attention to each other with ordinary transformer computation to calculate their output (for state vectors, the output is the next state; for input vectors the output is the transformer output for that position). The memory computation is only applied to one layer (layer 10) out of 12 layers by default.
+2203:Google: Memorizing Transformers.pdf
+2205:NYU: SQuALITY: Building a Long-Document Summarization Dataset the Hard Way.pdf
+2208:TelAviv: Efficient Long-Text Understanding with Short-Text Models.pdf
+2209:Columbia: Stateful Memory-Augmented Transformers for Dialogue Modeling.pdf
