@@ -1,0 +1,14 @@
+1708:Cornell: On Calibration of Modern Neural Networks.pdf
+2104:AllenAI: Cross-Task Generalization via Natural Language Crowdsourcing Instructions.pdf
+2107:Berkeley: Calibrate Before Use: Improving Few-shot Performance of Language Models.pdf
+2108:Stanford: Prefix-Tuning: Optimizing Continuous Prompts for Generation.pdf
+2109:DeepMind: infinite-former: Infinite Memory Transformer.pdf
+2110:CMU: Towards a Unified View of Parameter-Efficient Transfer Learning.pdf	Instead of fine-tuning a transformer, add and finetune a small number of parameters. Examples: prompt engineering (add a few words to input, no training), prefix finetuning or soft prompt tuning (add a few vectors to each K,V; not Q), adapters (add a residual MLP block to output), LoRA (add a low rank transform of input to output), bitfit (only finetune biases), diff-pruning (add a sparse vector to all? model parameters). Prefix tuning can be reexpressed as an adapter function giving a unified framework. Design choices are functional form, whether to go parallel or serial with an existing module, composition with original output. Modifying FFN is better than Attn in all but smallest parameter cases. Parallel is better. Comparing design choices leads to a better type of adapter called MaM. Training is still expensive, inference comparable, model size greatly reduced for multiple tasks, better generalization? no catastropic fogetting?
+2111:Tsinghua: OpenPrompt: An Open-source Framework for Prompt-learning.pdf
+2201:AllenAI: Memory-assisted prompt editing to improve GPT-3 after deployment.pdf
+2203:Salesforce: ConTinTin: Continual Learning from Task Instructions.pdf
+2204:UNC: Explanation Graph Generation via Pre-trained Language Models: An Empirical Study with Contrastive Learning.pdf
+2205:AllenAI: Quark: Controllable Text Generation with Reinforced Unlearning.pdf
+2205:NRCC: Ethics Sheets for AI Tasks.pdf
+2208:TelAviv: Efficient Long-Text Understanding with Short-Text Models.pdf
+README
