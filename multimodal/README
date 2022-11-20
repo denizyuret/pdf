@@ -22,7 +22,7 @@
 2101:Microsoft: VinVL: Revisiting Visual Representations in Vision-Language Models.pdf
 2102:Google: Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision.pdf
 2102:OpenAI:DALL-E Zero-Shot Text-to-Image Generation.pdf
-2103:OpenAI: Learning Transferable Visual Models From Natural Language Supervision.pdf
+2103:OpenAI: Learning Transferable Visual Models From Natural Language Supervision.pdf.  CLIP. Trained to have a common embedding space for images and text. The image is projected using resnet or ViT, the text uses a transformer. To use a large amount of image-text data, (400M), it was automatically collected (weakly supervised), and instead of generating text they used a contrastive objective, i.e. choose the right text within the batch. These choices enabled impressive image classification performance (competitive with frozen resnet50+finetuned linear layer). However I suspect the structure of language was largely lost (the evaluation doesn’t use it, the contrastive objective doesn’t require it), so I am skeptical about using this for sentence representation: The goal in this paper is not language grounding in general with all its relations, grammar and structure, but optimizing performance on image classification on unseen datasets, i.e. matching images with few word descriptions.
 2108:Google: SimVLM: Simple Visual Language Model Pretraining with Weak Supervision.pdf
 2108:Saarland: Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods.pdf
 2111:Microsoft: Florence: A New Foundation Model for Computer Vision.pdf
@@ -37,3 +37,5 @@
 2207:Tohoku: GRIT: Faster and Better Image captioning Transformer Using Dual Visual Features.pdf
 2210:Google: Imagic: Text-Based Real Image Editing with Diffusion Models.pdf
 2210:UCSB: Visualize Before You Write: Imagination-Guided Open-Ended Text Generation.pdf	Similar to the CLIP_CAP? paper says Ilker.
+
+Language-Attends-to-Vision: a type of architecture used in “interactive language” paper.
