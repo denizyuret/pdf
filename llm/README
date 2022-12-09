@@ -1,0 +1,33 @@
+1707:OpenAI:Blog: Proximal Policy Optimization.pdf
+1707:OpenAI: Proximal Policy Optimization Algorithms.pdf
+2005:OpenAI: Language Models are Few-Shot Learners.pdf
+2007:Alammar:Blog How GPT3 Works.pdf
+2007:Washington: Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data.pdf
+2103:Washington: On the Dangers of Stochastic Parrots: Can Language Models Be Too Big.pdf
+2106:Microsoft: VinVL: Revisiting Visual Representations in Vision-Language Models.pdf
+2108:Stanford: On the Opportunities and Risks of Foundation Models.pdf
+2109:AllenAI: Provable Limitations of Acquiring Meaning from Ungrounded Form: What Will Future Language Models Understand.pdf
+2109:Google: Finetuned Language Models Are Zero-Shot Learners.pdf
+2109:Nanyang: Learning to Prompt for Vision-Language Models.pdf
+2112:DeepMind: Multimodal Few-Shot Learning with Frozen Language Models.pdf
+2112:DeepMind: RETRO: Improving language models by retrieving from trillions of tokens.pdf
+2112:DeepMind: Scaling Language Models: Methods, Analysis and Insights from Training Gopher.pdf
+2112:OpenAI: WebGPT: Browser-assisted question-answering with human feedback.pdf
+2201:Alammar:Blog: The Illustrated Retrieval Transformer.pdf
+2201:Google: Chain of Thought Prompting Elicits Reasoning in Large Language Models.pdf
+2201:OpenAI:Blog: Aligning Language Models to Follow Instructions.pdf
+2201:OpenAI:Blog: WebGPT: Improving the Factual Accuracy.pdf
+2203:OpenAI: InstructGPT: Training language models to follow instructions with human feedback.pdf
+2204:DeepMind: Can language models learn from explanations in context.pdf
+2205:Stanford: Human Language Understanding and Reasoning.pdf
+2206:Google: Emergent Abilities of Large Language Models.pdf
+2206:NVIDIA: MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge.pdf
+2208:DeepMind: Meaning without reference in large language models.pdf
+2210:AllenAI: Is Reinforcement Learning Not for Natural Language Processing.pdf
+2210:OpenAI: Scaling Laws for Reward Model Overoptimization.pdf
+2210:UCL: Large language models are not zero-shot communicators.pdf
+2211:Berkeley: InstructPix2Pix: Learning to Follow Image Editing Instructions.pdf
+2211:MetaAI: Galactica: A Large Language Model for Science.pdf
+2211:OpenAI:Blog: ChatGPT: Optimizing Language Models for Dialogue.pdf
+2212:Berkeley: Discovering Latent Knowledge in Language Models Without Supervision.pdf
+README
