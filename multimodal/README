@@ -1,3 +1,5 @@
+https://github.com/emrecanacikgoz/papers/tree/main/multimodal
+
 1112:Stonybrook: Im2Text: Describing Images Using 1 Million Captioned Photographs.pdf	SBU Captioned Photo Dataset, 1M Flickr images. System matches query image to dataset images and extracts (copies) the best captions. Pre-deep-learning, image representation based on manual global features (gist & thumbnail match), and noisy object recognition (only 89 categories, HoG visual words, 21 attribute, color surface etc, classifiers that use SVMs), text extracted using tf-idf etc. tf-idf also used on image detections. BLEU for eval. Human eval uses one caption (gold or generated) and two images (one random). For gold caption human picks correct image .96, fot generated .67! Nice early work but no useful info on text image representation fusion.
 1404:Stanford: Grounded Compositional Semantics for Finding and Describing Images with Sentences.pdf
 1406:Toronto: Multimodal Neural Language Models.pdf
